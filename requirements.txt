@@ -1,0 +1,8 @@
+streamlit
+watchdoc
+pandas
+numpy
+plotly
+openpyxl
+reportlab
+kaleido
