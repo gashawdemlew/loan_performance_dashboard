@@ -1,8 +1,8 @@
 streamlit
-watchdoc
 pandas
 numpy
-plotly
+plotly==5.24.1
+kaleido==0.2.1
 openpyxl
 reportlab
-kaleido
+watchdoc
